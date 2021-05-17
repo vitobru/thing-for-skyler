@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mortgage Calculator by Yan Chen</string>
+    <string name="radio20">20 years</string>
+    <string name="radio30">30 years</string>
+    <string name="tax">Include taxes and insurance (0.1%)</string>
+    <string name="calc">Calculate</string>
+    <string name="unin">Uninstall</string>
+    <string name="principle">Enter Principle ($):</string>
+    <string name="prompt">Press CALCULATE for monthly payments.</string>
+    <string name="annual">Annual Interest Rate</string>
+    <string name="loan">Select Loan Term</string>
+    <string name="initialRate">Interest rate: 10.0%</string>
+    <string name="resultFormat">Monthly payment: $%.2f</string>
+    <string name="radio15">15 years</string>
+    <string name="locale">Language</string>
+</resources>

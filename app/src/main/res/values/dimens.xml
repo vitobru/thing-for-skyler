@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLarge">30dp</dimen>
+    <dimen name="marginSmall">5dp</dimen>
+    <dimen name="radios">25dp</dimen>
+</resources>

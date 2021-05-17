@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">抵当権電卓</string>
+    <string name="calc">計算をする</string>
+    <string name="unin">アンインストール</string>
+    <string name="radio20">20年</string>
+    <string name="radio30">30年</string>
+    <string name="principle">借入希望額($)：</string>
+    <string name="prompt">「計算をする」を押しください</string>
+    <string name="annual">金利</string>
+    <string name="loan">借入期間</string>
+    <string name="radio15">15年</string>
+    <string name="resultFormat">毎月返済額：￥%.2f</string>
+    <string name="locale">言語</string>
+    <string name="initialRate">金利：10.0％</string>
+    <string name="tax">税込み(0.1%)</string>
+</resources>
